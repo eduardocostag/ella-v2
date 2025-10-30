@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+/*import { NextResponse } from 'next/server';
 
 export function middleware(request) {
   const country = request.headers.get('x-vercel-ip-country') || 'UNKNOWN';
@@ -14,4 +14,4 @@ export function middleware(request) {
 
 export const config = {
   matcher: '/' // Aplica a todas as rotas
-};
+};*/
